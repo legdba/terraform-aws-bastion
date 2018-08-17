@@ -1,0 +1,9 @@
+.env
+*.tmp
+*.bkp
+*.swp
+.terraform
+terraform.tfvars
+terraform.tfstate*
+tfplan
+.terragrunt-cache
